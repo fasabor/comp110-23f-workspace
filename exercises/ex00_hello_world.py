@@ -1,2 +1,3 @@
-_author_ = 730656260
-print ("Hello, world.")
+"""My first program for COMP110"""
+
+__author__ =  "730656260"
